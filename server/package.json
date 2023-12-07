@@ -1,0 +1,24 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "Counter App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolby-k/counter-frontend-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolby-k/counter-frontend-backend.git"
+  },
+  "homepage": "https://github.com/kolby-k/counter-frontend-backend.git#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
